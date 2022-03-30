@@ -18,6 +18,7 @@ scoreboard objectives add tc_compass dummy
 
 scoreboard objectives add RightClick minecraft.custom:talked_to_villager
 
-tag @a remove tracked
 team add villager
 team modify villager collisionRule never
+
+function tc:trigger_track_me
