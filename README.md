@@ -1,4 +1,4 @@
-# manhunt_tracker
+# Manhunt Compass
 Compass for manhunts
 
 To use, select download as ZIP under the Code button. Create new Minecraft world, go into its datapacks folder in `%AppData%\.minecraft\saves\<world_name>\datapacks` and save the folder there.
